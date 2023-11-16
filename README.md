@@ -1,0 +1,1 @@
+command: python Sibelia_dotplot.py <blocks_coords.txt path> <reference contigs number> <output file>
