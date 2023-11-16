@@ -1,0 +1,2 @@
+target: B_pinnipedialis_B2-94_C1
+reference: NC_006933
